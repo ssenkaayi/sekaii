@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/sekaii/static/css/main.25cce2a4.css",
+    "main.js": "/sekaii/static/js/main.10e009ad.js",
+    "index.html": "/sekaii/index.html",
+    "main.25cce2a4.css.map": "/sekaii/static/css/main.25cce2a4.css.map",
+    "main.10e009ad.js.map": "/sekaii/static/js/main.10e009ad.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.25cce2a4.css",
+    "static/js/main.10e009ad.js"
+  ]
+}
