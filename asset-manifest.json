@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/sekaii/static/css/main.25cce2a4.css",
-    "main.js": "/sekaii/static/js/main.10e009ad.js",
+    "main.css": "/sekaii/static/css/main.451ce77c.css",
+    "main.js": "/sekaii/static/js/main.f93118e0.js",
     "index.html": "/sekaii/index.html",
-    "main.25cce2a4.css.map": "/sekaii/static/css/main.25cce2a4.css.map",
-    "main.10e009ad.js.map": "/sekaii/static/js/main.10e009ad.js.map"
+    "main.451ce77c.css.map": "/sekaii/static/css/main.451ce77c.css.map",
+    "main.f93118e0.js.map": "/sekaii/static/js/main.f93118e0.js.map"
   },
   "entrypoints": [
-    "static/css/main.25cce2a4.css",
-    "static/js/main.10e009ad.js"
+    "static/css/main.451ce77c.css",
+    "static/js/main.f93118e0.js"
   ]
 }
