@@ -1,6 +1,6 @@
 import React from 'react';
 import './App.css'
-import { BrowserRouter,Routes , Route } from 'react-router-dom';
+import { Routes , Route} from 'react-router-dom';
 import Nav from './components/head/nav';
 import Home from './components/body/home/home';
 import About from './components/body/about/about';
@@ -13,19 +13,17 @@ const App = ()=>{
   return (
     <div>
 
-      <BrowserRouter>
+    
         <Nav/>
         <Routes>
-          <Route index element={<Home/>}/> 
+          {/* <Route index element={<Home/>}/> */}
           <Route path='/' element={<Home/>}/>
           <Route path='/about' element={<About/>}/>
           <Route path='/service' element={<Service/>}/>
           <Route path='/contact' element={<Contact/>}/>
         </Routes>
-      </BrowserRouter>
-
- 
-     
+  
+   
     </div>
   );
 
